@@ -47,11 +47,3 @@ This project aims to build a regression model that can accurately predict salari
 - Built a Power BI dashboard to visualize salary predictions and trends.
 
 ---
-
-## 📊 Dashboard Preview
-
-![Power BI Screenshot](dashboard/screenshot.png)
-
----
-
-
